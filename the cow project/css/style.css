@@ -22,3 +22,12 @@
     color: rgb(255, 255, 255);
    
 }
+.article{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: rgb(191, 209, 203);
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px lightpink;
+    
+}
