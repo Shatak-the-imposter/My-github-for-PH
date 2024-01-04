@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,300;1,400&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.hero{
+
+    background-image: url(../Image/finalcow.jpg);
+    height: 100vh;
+    background-position:bottom center;
+    background-size: cover;
+}
+.hero h1{
+    font-size: 80px;
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+    font-weight: 900;
+    padding-top: 40px;
+    color: rgb(255, 255, 255);
+   
+}
